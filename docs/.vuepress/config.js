@@ -1,11 +1,10 @@
 module.exports = {
-  title: "Vuepress",
-  description: "This is a Zeit Now 2.0 example",
+  title: "Parken Consulting - Basics",
+  description: "Google My Business, Facebook Page for Business",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
       { text: "Guide", link: "/guide/" },
-      { text: "Config Page", link: "/config" }
     ]
   },
   dest: "public"
