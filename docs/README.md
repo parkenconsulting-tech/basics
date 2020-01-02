@@ -1,1 +1,4 @@
-# Hello From Vuepress on Now 2.0!
+# Basics
+
+
+- Google My Business - https://www.google.com/intl/en_in/business/
